@@ -1,6 +1,6 @@
 .game {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   margin: 3rem;
 }
 
